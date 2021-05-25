@@ -1,0 +1,1 @@
+console.log('샘플2')
